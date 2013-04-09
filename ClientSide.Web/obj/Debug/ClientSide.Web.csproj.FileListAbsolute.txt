@@ -1,0 +1,7 @@
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\ClientSide.Web\obj\Debug\ResolveAssemblyReference.cache
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\ClientSide.Web\bin\ClientSide.Web.dll
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\ClientSide.Web\bin\ClientSide.Web.pdb
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\ClientSide.Web\obj\Debug\ClientSide.Web.dll
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\ClientSide.Web\obj\Debug\ClientSide.Web.pdb
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\ClientSide.Web\bin\Extentions.dll
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\ClientSide.Web\bin\Extentions.pdb

@@ -1,0 +1,2 @@
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\ClientSide
+Generated_Code\ClientSide.Web.g.cs

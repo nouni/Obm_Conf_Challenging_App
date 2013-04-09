@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ab12eadd-e493-4903-b9a1-5aafc412767f" name="ITEngineer@WIN-HV2N8UND0JP 2013-04-09 14:02:59" runUser="WIN-HV2N8UND0JP\ITEngineer" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e138ba50-0c48-4d41-ad63-17269dc1ec31">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="ITEngineer_WIN-HV2N8UND0JP 2013-04-09 14_02_59">
+      <DeploymentItem filename="c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\Extentions\bin\Debug\Extentions.dll" />
+      <DeploymentItem filename="c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\ClientSide.Web\bin\ClientSide.Web.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-04-09T14:02:59.7585368+01:00" queuing="2013-04-09T14:02:59.9186992+01:00" start="2013-04-09T14:03:00.3015264+01:00" finish="2013-04-09T14:03:03.5057510+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SetCurrentWeekTest" storage="c:\users\itengineer\documents\visual studio 2010\projects\obm.projects.challenging\testwebproject\bin\debug\testwebproject.dll" id="ad414808-f5ad-5c9c-e273-a846a58c8a88">
+      <Execution id="f16040ef-15c5-4c78-8888-442d875a823c" />
+      <TestMethod codeBase="c:/users/itengineer/documents/visual studio 2010/Projects/Obm.Projects.Challenging/TestWebProject/bin/Debug/TestWebProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestWebProject.ChallengingResultVOEntityTest, TestWebProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SetCurrentWeekTest" />
+      <AspNet webSiteUrl="http://localhost:1060/">
+        <Host pathToWebApp="c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\ClientSide.Web" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="ad414808-f5ad-5c9c-e273-a846a58c8a88" executionId="f16040ef-15c5-4c78-8888-442d875a823c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="f16040ef-15c5-4c78-8888-442d875a823c" testId="ad414808-f5ad-5c9c-e273-a846a58c8a88" testName="SetCurrentWeekTest" computerName="WIN-HV2N8UND0JP" startTime="2013-04-09T14:03:01.0544850+01:00" endTime="2013-04-09T14:03:02.7274008+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f16040ef-15c5-4c78-8888-442d875a823c">
+      <Output>
+        <ErrorInfo>
+          <Message>The Web request 'http://localhost:1060/' completed successfully without running the test. This can occur when configuring the Web application for testing fails (an ASP.NET server error occurs when processing the request), or when no ASP.NET page is executed (the URL may point to an HTML page, a Web service, or a directory listing). Running tests in ASP.NET requires the URL to resolve to an ASP.NET page and for the page to execute properly up to the Load event. The response from the request is stored in the file 'WebRequestResponse_SetCurrentWeekTest.html' with the test results; typically this file can be opened with a Web browser to view its contents.</Message>
+        </ErrorInfo>
+      </Output>
+      <ResultFiles>
+        <ResultFile path="WIN-HV2N8UND0JP\WebRequestResponse_SetCurrentWeekTest.html" />
+      </ResultFiles>
+    </UnitTestResult>
+  </Results>
+</TestRun>

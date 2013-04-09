@@ -1,0 +1,5 @@
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\Extentions\bin\Debug\Extentions.dll
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\Extentions\bin\Debug\Extentions.pdb
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\Extentions\obj\Debug\ResolveAssemblyReference.cache
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\Extentions\obj\Debug\Extentions.dll
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\Extentions\obj\Debug\Extentions.pdb
