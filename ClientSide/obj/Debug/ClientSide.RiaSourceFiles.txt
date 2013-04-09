@@ -1,0 +1,1 @@
+c:\users\itengineer\documents\visual studio 2010\Projects\Obm.Projects.Challenging\ClientSide.Web\ClientSide.Web.csproj,635011034963840526,Properties\AssemblyInfo.cs,

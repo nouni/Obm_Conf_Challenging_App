@@ -1,7 +1,7 @@
 Cette application a pour but d'afficher le nombre des accords (càd les accords qui ont le statut OUI) pour chaque télèopératrice en ordre descendant.
 L'affichage est sous format d'un tableau à plusieurs colonnes où chaque ligne représente une télèopératrice.
 
-Les colonnes sont les suivantes .
+Les colonnes sont les suivantes :
 	<ol>
 	<li>Nom de la télèopératrice</li>
 	<li>Nombre d'accord pour :
